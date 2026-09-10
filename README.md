@@ -2,7 +2,7 @@
 
 Paradise Nursery is a responsive React shopping cart application for browsing and purchasing houseplants online. It includes a welcoming landing page, category filters, product cards, and a complete Redux-powered cart experience.
 
-## Main features
+## Main Features
 
 - Landing page with nursery imagery and a Get Started flow
 - 18 unique plants across Indoor Plants, Flowering Plants, and Succulents
@@ -12,7 +12,7 @@ Paradise Nursery is a responsive React shopping cart application for browsing an
 - Responsive desktop and mobile layout
 - Routes for Home, Plants, and Cart
 
-## Technologies used
+## Technologies Used
 
 - React with JavaScript
 - Vite
@@ -20,17 +20,10 @@ Paradise Nursery is a responsive React shopping cart application for browsing an
 - React Router DOM
 - CSS with responsive media queries
 
-## Run locally
+## Run Locally
 
 From the `paradise-nursery` directory:
 
 ```bash
 npm install
 npm run dev
-```
-
-From the parent `nursery` directory, the root forwarding script also supports:
-
-```bash
-npm run dev
-```
